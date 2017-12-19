@@ -6,11 +6,17 @@ Contains APIs for starting a drip campaign. User can sign in from their gmail ac
 4. Curl request to schedule a campaign:
 
 	recipients : list of recipients to send the email to
+	
 	camp_title : campaign title
+	
 	templates : User defined templates
+	
 	vars : values which will be replaces for each matching template
+	
 	wait_days : days gap between each follow up mail
+	
 	stages : number of follow up emails
+	
 	email: User's email
 
 	curl -X POST \
