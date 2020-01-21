@@ -1,4 +1,7 @@
-Contains APIs for starting a drip campaign. User can sign in from their gmail account.
+# Drip-Campaign
+
+Drip campaigns a set of marketing emails that will be sent out automatically on a schedule.  
+Contains APIs for starting a drip campaign. User can sign in from their gmail account.  
 
 1. Install redis : sudo apt-get install redis-server
 2. Install all the dependencies : pip install -r requirements.txt
