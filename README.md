@@ -1,6 +1,6 @@
 # Drip-Campaign
 
-Drip campaigns a set of marketing emails that will be sent out automatically on a schedule.  
+Drip campaigns are a set of emails that will be sent out automatically on a schedule. It is mostly used by people to send out marketing emails. 
 Contains APIs for starting a drip campaign. User can sign in from their gmail account.  
 
 1. Install redis : sudo apt-get install redis-server
